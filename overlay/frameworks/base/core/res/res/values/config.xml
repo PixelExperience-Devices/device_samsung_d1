@@ -49,4 +49,5 @@
         <item>1750</item>
         <item>112</item>
     </integer-array>
+    <bool name="config_supportsScreenOffUdfps">true</bool>
 </resources>
